@@ -1,0 +1,143 @@
+body {
+	background-repeat: no-repeat;
+	background-size: auto 100%;
+	background-attachment: fixed;
+}
+
+#winter-day {
+	background-image: url('../img/winter-day.jpg');
+}
+
+#winter-night {
+	background-image: url('../img/winter-night.jpg');
+}
+
+#spring-day {
+	background-image: url('../img/spring-day.jpg');
+}
+
+#spring-night {
+	background-image: url('../img/spring-night.jpg');
+}
+
+#summer-day {
+	background-image: url('../img/summer-day.jpg');
+}
+
+#summer-night {
+	background-image: url('../img/summer-night.jpg');
+}
+
+#fall-day {
+	background-image: url('../img/fall-day.jpg');
+}
+
+#fall-night {
+	background-image: url('../img/fall-night.jpg');
+}
+
+div {
+	border-radius: 25px;
+	padding: 10px;
+	margin: 10px;
+}
+
+div.winter-night {
+	background-color: rgba(159,200,222,0.85);
+	color: rgba(35,36,41,1);
+}
+
+div.winter-day {
+	background-color: rgba(237,246,253,0.85);
+	color: rgba(20,31,59,1);
+}
+
+div.spring-day {
+	background-color: rgba(237,246,253,0.85);
+	color: rgba(20,31,59,1);
+}
+
+div.spring-night {
+	background-color: rgba(190,195,227,0.85);
+	color: rgba(41,43,42,1);
+}
+
+div.summer-night {
+	background-color: rgba(210,215,246,0.85);
+	color: rgba(17,14,22,1);
+}
+
+div.summer-day {
+	background-color: rgba(239,252,251,0.85);
+	color: rgba(29,107,159,1);
+}
+
+div.fall-night {
+	background-color: rgba(235,251,251,0.85);
+	color: rgba(12,14,13,1);
+}
+
+div.fall-day {
+	background-color: rgba(252,229,209,0.85);
+	color: rgba(2,4,1,1);
+}
+
+#date-time {
+	width: 950px;
+}
+
+#holiday {
+	width: 400px;
+}
+
+#holiday h3 {
+	padding: 0px;
+	margin: 0px;
+}
+
+#date-time h2 {
+	padding: 0px;
+	margin: 0px;
+}
+
+#google-search {
+	width: 310px;
+}
+
+#btc-stats {
+	display: inline-block;
+	width: 300px;
+	vertical-align: top;
+	list-style-type: none;
+}
+
+#btc-stats h3 {
+	padding: 0px;
+	margin: 0px;
+	margin-bottom: 5px;
+}
+
+#weather-area {
+	display: inline;
+	background-color: transparent;
+	margin: 0px;
+	padding: 0px;
+}
+
+#weather {
+	border: none;	
+}
+
+#news {
+	background-color: transparent;
+	border: 0px;
+	margin: 0px;
+}
+
+#news div {
+	display: inline-block;
+	width: 500px;
+	top: 0px;
+	vertical-align: top;
+}
+

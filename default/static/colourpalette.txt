@@ -1,0 +1,51 @@
+homepage theme colours:
+
+winter night:	div background colour: 159, 200, 222
+				text colour: 35, 36, 41
+				
+winter day:		div background colour: 237, 246, 253
+				text colour: 20, 31, 59
+				
+spring day:		div background colour: 231, 231, 231
+				text colour: 7, 2, 6
+				
+spring night: 	div background colour: 190, 195, 227
+				text colour: 41, 43, 42
+			
+summer day:		div background colour: 239, 252, 251
+				text colour: 29, 107, 159
+				
+summer night:	div background colour: 210, 215, 246
+				text colour: 17, 14, 22
+				
+fall day:		div background colour: 252, 229, 209
+				text colour: 2, 4, 1
+				
+fall night:		div background colour: 235, 251, 251
+				text colour: 12, 14, 13
+				
+----------------------------------------------
+
+new year's day:		div background colour: 253, 248, 242
+					text colour: 6, 9, 2
+				
+valentine's day:	div background colour: 254, 252, 198
+					text colour: 0, 0, 60
+					
+st patrick's day:	div background colour:  150, 255, 103
+					text colour: 11, 16, 12
+					
+candada day:		div background colour: 255, 255, 255
+					text colour: 0, 0, 0
+
+halloween:			div background colour: 255, 250, 98
+					text colour: 6, 0, 0
+					
+remembrance day:	div background colour: 255, 162, 134
+					text colour: 20, 24, 23
+					
+christmas eve:		div background colour: 255, 255, 255
+					text colour: 4, 5, 8
+					
+christmas day:		div background colour: 247, 250, 255
+					text colour: 17, 7, 12
